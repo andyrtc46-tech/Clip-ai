@@ -1,0 +1,7 @@
+{
+  "name": "AutoClip AI - Smart Stream & Video Hook Clipper",
+  "description": "AI-powered video clipping and viral hook detector for YouTube, Twitch, and Kick with custom watermarks, multi-clip merging, 480p-4K 60fps export, and auto horizontal/vertical framing up to 10 minutes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
